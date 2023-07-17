@@ -1,5 +1,6 @@
 ### Hi there 👋
-- I'm currently working on projects involving React, MERN Stack, and much more!
+- I'm currently working on projects involving Express.js, React, and much more!
+- 🌱 I'm currnetly learning all the best MERN Stack practices. 
 - 📫 How to reach me: ryanoh671@gmail.com
   
 
