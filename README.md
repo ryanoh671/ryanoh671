@@ -1,4 +1,7 @@
 ### Hi there 👋
+- I'm currently working on projects involving React, MERN Stack, and much more!
+- 📫 How to reach me: ryanoh671@gmail.com
+  
 
 <!--
 **ryanoh671/ryanoh671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
